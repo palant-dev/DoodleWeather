@@ -1,4 +1,5 @@
 # Doodle weather
+![13d 11 09 13](https://github.com/palant-dev/DoodleWeather/assets/113528707/cb6afdd7-e8c1-45c1-a9b6-efe49ee2997a)
 
 Doodle Weather is a simple weather app built using Flutter. It provides weather information based on your current location.
 
@@ -37,9 +38,13 @@ The app leverages the OpenWeatherMap API to fetch accurate and up-to-date weathe
 const apiKey = 'YOUR_API_KEY_HERE';
 ```
 
-## **Screenshots**
+## **Screenshots and demo**
 
-Include some screenshots of the app in action.
+https://github.com/palant-dev/DoodleWeather/assets/113528707/d2b95429-d6b6-4fee-896e-fd7d4631fbbd
+
+https://github.com/palant-dev/DoodleWeather/assets/113528707/7aec07b5-0bc3-465f-bc9c-0479f1a29eb8
+
+https://github.com/palant-dev/DoodleWeather/assets/113528707/1aaa3e6e-fa72-4aca-8d18-92956a27cb99
 
 ## **Contributing**
 
