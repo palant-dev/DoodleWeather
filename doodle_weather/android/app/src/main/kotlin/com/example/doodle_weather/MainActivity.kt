@@ -1,0 +1,6 @@
+package com.example.doodle_weather
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
