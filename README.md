@@ -15,6 +15,22 @@ The app leverages the OpenWeatherMap API to fetch accurate and up-to-date weathe
 - Displays current weather, daily forecast, and comfort level details.
 - Sleek circular slider for visualising humidity.
 
+## State Management with GetX
+
+This app utilizes the GetX package for state management. GetX is a powerful state management library for Flutter that simplifies the process of managing application state.
+
+### Why GetX?
+
+- **Simplicity**: GetX provides a simple and intuitive syntax for managing state without the boilerplate code associated with traditional state management solutions.
+
+- **Reactivity**: GetX offers reactive programming paradigms that automatically update the UI whenever the underlying data changes.
+
+- **Dependency Injection**: GetX comes with a powerful dependency injection system that allows for easy and efficient management of dependencies.
+
+- **Performance**: GetX is highly performant, making it suitable for both small and large-scale applications.
+
+- **Lightweight**: GetX is lightweight and has minimal impact on app size and performance.
+
 ## **Dependencies**
 
 - [cupertino_icons](https://pub.dev/packages/cupertino_icons): ^1.0.2
